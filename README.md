@@ -1,13 +1,15 @@
-# Microservice Template
+# Microservice Template Node
 This is a micro service template build using node micro details refer https://github.com/zeit/micro
 
 ``` bash
 # Install dependencies
 npm install
 
-# Start mode
+# Start production mode
 npm start
 
+# Start development mode
+npm run dev
 
 # Build
 npm run build
